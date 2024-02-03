@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BusinessCardApp</string>
+    <string name="name">Harold Chavez</string>
+    <string name="title">Android Developer</string>
+    <string name="phone">+ 91 991715735</string>
+    <string name="email">harold280299.99@gmail.com</string>
+    <string name="nickname">Harold99</string>
+
+</resources>
